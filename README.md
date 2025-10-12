@@ -1,1 +1,1 @@
-# recipies_website
+ignore the spelling mistake I don't know if anything will break if I try to fix it now. I don't really bother tho cuz that's not I'm focusing on. I'm making a recipes website and learning HTML and Git along the way
