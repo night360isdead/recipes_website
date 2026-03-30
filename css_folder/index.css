@@ -1,0 +1,29 @@
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightseagreen;
+}
+
+ul {
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+
+    text-align: center;
+    width: 225px;
+    border: 20px solid black;
+    border-block-end-style: double;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: darkslategrey;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 64px;
+    font-family: "times new roman";
+}
