@@ -16,8 +16,8 @@ a {
 
     text-align: center;
     width: 225px;
-    border: 20px solid black;
-    border-block-end-style: double;
+    border: 8px double black;
+   
     margin-bottom: 20px;
     border-radius: 20px;
     background-color: darkslategrey;
@@ -27,3 +27,20 @@ a {
     font-size: 64px;
     font-family: "times new roman";
 }
+
+
+
+
+img {
+    
+    border : 8px double black;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
